@@ -48,15 +48,15 @@ msgstr "Semua Dokumen"
 
 #: templates/base.html:83
 msgid "Regulation"
-msgstr ""
+msgstr "Regulasi"
 
 #: templates/base.html:84
 msgid "Development Document"
-msgstr ""
+msgstr "Dokumen Pengembangan"
 
 #: templates/base.html:85
 msgid "Other"
-msgstr ""
+msgstr "Lainnya"
 
 #: templates/base.html:94
 msgid "Projects"
@@ -64,7 +64,7 @@ msgstr "Proyek"
 
 #: templates/base.html:103 templates/zinnia/base.html:85
 msgid "Tools"
-msgstr ""
+msgstr "Alat"
 
 #: templates/base.html:110
 msgid "Users"
@@ -76,7 +76,7 @@ msgstr "Grup"
 
 #: templates/base.html:117 templates/base.html.py:224
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: templates/base.html:134
 msgid "Advanced Search"
@@ -84,15 +84,15 @@ msgstr "Pencarian Lanjutan"
 
 #: templates/base.html:139 templates/site_index.html:33
 msgid "Register"
-msgstr ""
+msgstr "Mendaftar"
 
 #: templates/base.html:152 templates/base.html.py:286
 msgid "Sign in"
-msgstr ""
+msgstr "Masuk"
 
 #: templates/base.html:160 templates/base.html.py:323
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 #: templates/base.html:205 templates/base.html.py:215
 msgid "Powered by"
@@ -112,7 +112,7 @@ msgstr "Didukung oleh"
 
 #: templates/base.html:215
 msgid "version"
-msgstr ""
+msgstr "versi"
 
 #: templates/base.html:216
 msgid "Developers"
@@ -193,12 +193,12 @@ msgstr ""
 
 #: templates/index.html:6 templates/zinnia/base.html:28
 msgid "Welcome!"
-msgstr ""
+msgstr "Selamat Datang!"
 
 #: templates/index.html:15 templates/site_index.html:23
 #: templates/site_index.html.py:105
 msgid "Welcome"
-msgstr ""
+msgstr "Selamat Datang"
 
 #: templates/index.html:16 templates/site_index.html:29
 #: templates/site_index.html.py:106
